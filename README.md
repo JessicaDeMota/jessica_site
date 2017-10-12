@@ -1,2 +1,2 @@
 # jessica_site
-Personal Website
+Static Website created by Jessica De Mota using HTML and CSS. 
