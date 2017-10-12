@@ -1,0 +1,17 @@
+*{
+	font-family: 'Playfair Display', serif;
+	padding-left: 75px;
+	padding-right: 75px;
+	text-align: center;
+}
+
+body {
+	background-image: url("puppy.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+h1 {
+	color: blue;
+	padding-top: 30px;
+}
